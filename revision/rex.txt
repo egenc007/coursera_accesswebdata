@@ -1,0 +1,11 @@
+To start this class out we cover the basics of 
+Object Oriented Python. We won't be writing our own objects,
+but since many of the things we use like BeautifulSoup, strings,
+dictionaries, database connections all use Object Oriented (OO)
+patterns we should at least understand some of its patterns and
+terminology.
+We learn the four core CRUD operations (Create, Read, Update, 
+and Delete) to manage data stored in a database.
+In this section we explore how to model situations like
+students enrolling in courses where each course has many 
+students and each student is enrolled in many courses.
